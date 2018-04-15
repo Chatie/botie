@@ -1,5 +1,8 @@
-# botie
+# BOTIE
+
 Botie for Chatie
+
+![Botie Icon](https://chatie.github.io/botie/images/botie-logo.png)]
 
 # RESOURCES
 
